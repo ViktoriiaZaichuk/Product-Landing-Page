@@ -1,1 +1,3 @@
-# Product-Landing-Page
+Product Landing Page - freeCodeCamp project
+
+Responsive Web Design
